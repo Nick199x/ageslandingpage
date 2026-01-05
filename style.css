@@ -1,0 +1,17 @@
+/*
+ * Theme Name: AGES - Geotechnical Engineering
+ * Theme URI: https://ages.ph
+ * Description: Professional WordPress theme for AGES - Advanced Geotechnical Engineering Services
+ * Version: 1.0.0
+ * Author: AGES
+ * Author URI: https://ages.ph
+ * License: GPL-2.0-or-later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: ages-theme
+ * Domain Path: /languages
+ */
+
+/* Tailwind CSS and custom styles are handled via functions.php */
+html { scroll-behavior: smooth; }
+.group:hover .group-hover\:scale-110 { transform: scale(1.1); }
+.group:hover .group-hover\:opacity-100 { opacity: 1; }
